@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faizan Ali</h1>
+<h1 align="center">Hi 👋, I'm Flutter Developer</h1>
 <h3 align="center">Passionate iOS app developer dedicated to creating user-friendly and innovative mobile experiences for Apple enthusiasts.</h3>
 
 <img align="right" alt="coding" width="400" src ="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
